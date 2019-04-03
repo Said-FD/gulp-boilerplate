@@ -1,0 +1,24 @@
+{
+  "name": "new-template",
+  "version": "0.0.1",
+  "description": "Boilerplate",
+  "repository": {
+    "type": "git"
+  },
+  "author": "frontendmax",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "*",
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "*",
+    "gulp-rename": "*",
+    "gulp-replace-path": "*",
+    "gulp-svg-sprites": "*",
+    "gulp-svgmin": "*",
+    "gulp-watch": "*",
+    "postcss-hexrgba": "*",
+    "postcss-import": "*"
+  }
+}
