@@ -7,7 +7,6 @@
   - npm install --global gulp
 
 ### Run watcher with browser sync
-  - git checkout dev
   - gulp watch
 
 ### Open static page
